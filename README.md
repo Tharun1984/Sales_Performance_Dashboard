@@ -29,4 +29,4 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 ## Dashboard Screenshot
 
-![Dashboard](sales_dashboard.png)
+![Dashboard](SALES PERFORMANCE DASHBOARD.png)
